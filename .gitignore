@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+accumulated reward.png
+selected actions.png
+plots/reward distribution.png
